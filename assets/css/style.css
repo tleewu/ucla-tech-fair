@@ -1,0 +1,115 @@
+body{
+background-color:#FAFAFA;
+font-family: 'Raleway', sans-serif;
+}
+
+hr {
+border-color:#a0afbb;
+}
+
+.page-title {
+	font-size:60px;
+}
+
+.support {
+	font-size: 20px;
+}
+
+.responsive-break {
+	display: block;
+}
+
+.break-sq {
+	display: none;
+}
+
+.responsive-break-lg {
+	display: none;
+}
+
+.location-time{
+	font-size:20px;
+}
+
+#movie-display{
+	display:block;
+}
+
+#movie-no-display{
+	display:none;
+}
+
+.youtube-show {
+	display:block;
+}
+.youtube-no-show {
+	display:none;
+}
+
+.sponsor-image {
+	height:300px; 
+	width:300px;
+}
+
+#responsive-column{
+	display:none;
+}
+
+#page-1{
+	background-image: url('../images/techfair.jpg');
+	background-repeat: no-repeat;
+	background-size:100% 100%; 
+	height:100%;
+}
+
+#logo{
+	height:40%;
+}
+
+#page-2{
+	background-image: url('../images/road-background.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%; 
+	height:110%;
+}
+
+#click {
+	position:absolute;
+	bottom:10px;
+	left:0;
+	text-align:center;
+	width: 100%;
+	color:white;
+	font-size:15px;
+}
+
+.social-media{
+	opacity:0.5;
+}
+
+#content-title{
+	font-size: 20px; 
+	text-align:center; 
+	color:#FBE383;
+}
+
+#content-message{
+	font-size: 17px; 
+	color:#FBE383; 
+	text-align:center;
+}
+
+#message-jumbo{
+	background-color:rgba(127,38,42,0.8); 
+	padding:20px;
+}
+
+#reason-title{
+	font-size: 30px;
+	text-align:left;
+}
+
+#reason-message{
+	font-size:16px; 
+	text-align:left;
+}
